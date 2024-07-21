@@ -1,0 +1,5 @@
+config {
+  type: "table",
+  schema: "hello_dbt"
+}
+SELECT * FROM ${ref("model1")}

@@ -1,0 +1,6 @@
+config {
+  type: "table",
+  schema: "hello_dbt",
+  tags: ["tag2"]
+}
+SELECT * FROM `hello_dbt.customer_addresses`

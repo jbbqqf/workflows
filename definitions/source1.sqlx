@@ -1,0 +1,7 @@
+config {
+  type: "declaration",
+  database: "sturdy-essence-410419",
+  schema: "hello_dbt",
+  name: "customer_addresses",
+  description: ""
+}

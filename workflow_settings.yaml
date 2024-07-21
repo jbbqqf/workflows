@@ -1,0 +1,5 @@
+dataformCoreVersion: 3.0.0
+defaultProject: sturdy-essence-410419
+defaultLocation: europe-west4
+defaultDataset: hello_dbt
+defaultAssertionDataset: dataform_assertions
